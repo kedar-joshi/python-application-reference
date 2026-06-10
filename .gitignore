@@ -6,3 +6,6 @@ dataSources
 *.iml
 *.iws
 *.ipr
+
+# Generated files
+.venv
