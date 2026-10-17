@@ -9,3 +9,6 @@ dataSources
 
 # Generated files
 .venv
+
+# Environment files
+.env

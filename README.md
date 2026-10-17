@@ -6,9 +6,9 @@ Reference implementation of a Python web application.
 
 1. Python 3.14
 
-## Getting Started
+## Starting Application
 
-1. Create project -
+1. Run `main.py` -
    ```shell
-   uv init python-application-reference
+   uv run fastapi dev app/main.py
    ```
